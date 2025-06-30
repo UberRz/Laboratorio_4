@@ -1,4 +1,4 @@
-package laboratorio4.core.servicios;
+package laboratorio4.core.interfaces.servicios;
 
 import java.util.List;
 
